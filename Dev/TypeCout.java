@@ -1,0 +1,1 @@
+enum TypeCout{PRIX, CO2, TEMPS};

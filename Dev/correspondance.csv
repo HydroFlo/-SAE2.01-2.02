@@ -1,0 +1,17 @@
+Lille;Avion;Bus;2;3500;20
+Lille;Avion;Train;2;3500; 0
+Lille;Train;Bus; 0.33;0;0
+Paris;Avion;Bus;0.24;100;16
+Paris;Avion;Train;0.30;200;11
+Paris;Train;Bus; 0.33;0;0
+Osaka;Avion;Bus;0.14;0;0
+Osaka;Avion;Train;0.30;50;1
+Osaka;Train;Bus; 0.8;0;0
+Nagoya;Avion;Train;1;500;14
+Kyoto;Train;Bus; 0.15;0;0
+Tokyo;Avion;Bus;0.20;0;0
+Tokyo;Avion;Train;0.5;0;0
+Tokyo;Train;Bus; 0.10;0;0
+Narita;Avion;Bus;0.2;0;0
+Narita;Avion;Train;1;500;30
+Narita;Train;Bus; 0.5;150;15

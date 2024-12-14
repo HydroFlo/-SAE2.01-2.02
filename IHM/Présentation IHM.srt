@@ -1,0 +1,27 @@
+﻿1
+00:00:03,010 --> 00:00:07,800
+Sélection d'une ville de départ et d'une ville d'arrivée
+
+2
+00:00:08,250 --> 00:00:10,460
+calcul avec comme tri la consommation de CO2
+
+3
+00:00:10,660 --> 00:00:15,820
+Choix du nombre de résultats à afficher
+
+4
+00:00:16,020 --> 00:00:19,170
+Changement du critère de tri
+
+5
+00:00:22,800 --> 00:00:26,110
+Changement de la ville de destination
+
+6
+00:00:32,119 --> 00:00:37,890
+Ajout d'un filtre avec une borne
+
+7
+00:00:45,550 --> 00:00:48,240
+Le calcul ne peut pas être fait si la ville de départ est la même que celle d'arrivée
